@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HorrorGame_V1\\HorrorGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\checkpointmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\checkpointmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\itemslot_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\itemslot_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|c:\\horrorgame_v1\\horrorgame\\assets\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\scripts\\ragdollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ragdollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\lava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\lava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\mycharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\mycharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\scripts\\item_consumableso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item_consumableso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\movingplatformx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\movingplatformx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\scripts\\itemdatascriptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemdatascriptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5C5FE2-9C7A-1360-8E9B-303CA22027C5}|Unity.StarterAssets.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\starter assets\\runtime\\thirdpersoncontroller\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5C5FE2-9C7A-1360-8E9B-303CA22027C5}|Unity.StarterAssets.csproj|solutionrelative:assets\\starter assets\\runtime\\thirdpersoncontroller\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|C:\\HorrorGame_V1\\HorrorGame\\assets\\charactercontroller_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\charactercontroller_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckPointManager.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\CheckPointManager.cs",
+              "RelativeDocumentMoniker": "Assets\\CheckPointManager.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\CheckPointManager.cs",
+              "RelativeToolTip": "Assets\\CheckPointManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T05:47:05.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckPoint.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\CheckPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\CheckPoint.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\CheckPoint.cs",
+              "RelativeToolTip": "Assets\\CheckPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T05:42:27.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\UIManager.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\UIManager.cs",
+              "RelativeToolTip": "Assets\\UIManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA6wBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:48:57.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyCharacterController.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\MyCharacterController.cs",
+              "RelativeDocumentMoniker": "Assets\\MyCharacterController.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\MyCharacterController.cs",
+              "RelativeToolTip": "Assets\\MyCharacterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:08:19.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Health.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Health.cs",
+              "RelativeToolTip": "Assets\\Health.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:02:49.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThirdPersonController.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Starter Assets\\Runtime\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Starter Assets\\Runtime\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Starter Assets\\Runtime\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "RelativeToolTip": "Assets\\Starter Assets\\Runtime\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "ViewState": "AgIAAG8BAAAAAAAAAADwv4YBAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:56:27.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemSlot_UI.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\ItemSlot_UI.cs",
+              "RelativeDocumentMoniker": "Assets\\ItemSlot_UI.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\ItemSlot_UI.cs",
+              "RelativeToolTip": "Assets\\ItemSlot_UI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:46:42.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventoryUI.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\InventoryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\InventoryUI.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\InventoryUI.cs",
+              "RelativeToolTip": "Assets\\InventoryUI.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:33:25.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RagdollController.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Scripts\\RagdollController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RagdollController.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Scripts\\RagdollController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RagdollController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:26:24.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemPickup.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\ItemPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\ItemPickup.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\ItemPickup.cs",
+              "RelativeToolTip": "Assets\\ItemPickup.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:18:15.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovingPlatform.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\MovingPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\MovingPlatform.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\MovingPlatform.cs",
+              "RelativeToolTip": "Assets\\MovingPlatform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T03:47:39.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lava.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Lava.cs",
+              "RelativeDocumentMoniker": "Assets\\Lava.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Lava.cs",
+              "RelativeToolTip": "Assets\\Lava.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T05:04:24.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerInventory.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\PlayerInventory.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv2AAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:30:26.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Item_ConsumableSO.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Scripts\\Item_ConsumableSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item_ConsumableSO.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Scripts\\Item_ConsumableSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item_ConsumableSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:21:54.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Enemy.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAswJAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:01:56.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovingPlatformX.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\MovingPlatformX.cs",
+              "RelativeDocumentMoniker": "Assets\\MovingPlatformX.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\MovingPlatformX.cs",
+              "RelativeToolTip": "Assets\\MovingPlatformX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T04:09:43.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Platform.cs",
+              "RelativeDocumentMoniker": "Assets\\Platform.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Platform.cs",
+              "RelativeToolTip": "Assets\\Platform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:10:41.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemDataScriptable.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Scripts\\ItemDataScriptable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemDataScriptable.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\Scripts\\ItemDataScriptable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemDataScriptable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:20:47.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:04:41.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CharacterController_V1.cs",
+              "DocumentMoniker": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\CharacterController_V1.cs",
+              "RelativeDocumentMoniker": "Assets\\CharacterController_V1.cs",
+              "ToolTip": "C:\\HorrorGame_V1\\HorrorGame\\Assets\\CharacterController_V1.cs",
+              "RelativeToolTip": "Assets\\CharacterController_V1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:32:51.647Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
